@@ -26,6 +26,7 @@
     <string name="from_activity">"fromActivity"</string>
     <string name="eye">"eyes"</string>
     <string name="hair">"hair"</string>
+    <string name="Hair">"Hair"</string>
     <string name="cloth">"dress_avatar"</string>
     <string name="lowercase_skin">"skin"</string>
     <string name="face">"face"</string>
